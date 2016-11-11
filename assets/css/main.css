@@ -2786,27 +2786,27 @@
 			}
 
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #63A4CC;
+				background-color: #282017;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #4083FF;
+				background-color: #735735;
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #FFC800;
+				background-color: #A27A47;
 			}
 
 			.tiles article:nth-child(6n - 2):before {
-				background-color: #99983D;
+				background-color: #D2A55A;
 			}
 
 			.tiles article:nth-child(6n - 1):before {
-				background-color: #CCC914;
+				background-color: #6399CC;
 			}
 
 			.tiles article:nth-child(6n):before {
-				background-color: #87c5a4;
+				background-color: #203AA6;
 			}
 
 		@media screen and (max-width: 1280px) {
