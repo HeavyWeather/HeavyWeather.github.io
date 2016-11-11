@@ -11,7 +11,7 @@ title-normal: Math-art weirdness
 email: dee@deeharding.nu
 description: I'm a researcher at Goldsmiths College working at the boundary between science and art.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://heavyweather.github.io" # the base hostname & protocol for your site
+url: "https://heavyweather.github.io/forty-jeckyll-theme" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
