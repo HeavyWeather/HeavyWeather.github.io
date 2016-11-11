@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: Hi, my name is Dee
+landing-title: Hello, my name is Dee
 description: I'm a researcher at Goldsmiths College working at the boundary between science and art.
 image:
 author:
