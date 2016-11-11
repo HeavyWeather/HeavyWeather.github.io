@@ -13,12 +13,12 @@ description: I'm a researcher at Goldsmiths College working at the boundary betw
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://heavyweather.github.io/" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Computing Department, Goldsmiths College
+city: New Cross
+state: London
+zip_code: SE14 6NW
+country: United(ish) Kingdom
+phone: +44 (0)20 7919 7850
 
 # Plugins
 gems:
