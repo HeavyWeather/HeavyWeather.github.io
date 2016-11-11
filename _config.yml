@@ -10,9 +10,9 @@ title-bold: Dee
 title-normal: Photos, fiction, some science
 email: dee@deeharding.nu
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "https://heavyweather.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://heavyweather.github.io" # the base hostname & protocol for your site
-author: Dee Harding
+author:
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN
@@ -41,7 +41,7 @@ instagram_url: https://instagram.com
 linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/deltaechoecho
+twitter_url: https://twitter.com/andrewbanchich
 
 # Build settings
 markdown: kramdown
