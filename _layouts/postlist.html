@@ -10,11 +10,27 @@
 
 <body>
 
-{% for post in site.posts %}
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p><small><strong>{{ post.date | date: "%B %e, %Y" }}</strong> . {{ post.category }} . <a href="http://erjjones.github.com{{ post.url }}#disqus_thread"></a></small></p>
-{% endfor %}
+    {% include header.html %}
 
+    <div id="main" class="alt">
+
+    <!-- One -->
+    <section id="one">
+    	<div class="inner">
+    		<header class="major">
+    			<h1>Post List</h1>
+    		</header>
+        <ul>
+    {% for post in site.posts %}
+        <li><h3> <a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <p><small>{{ post.excerpt }}</small><p>
+        <p><small><strong>{{ post.date | date: "%B %e, %Y" }}</strong> . {{ post.category }} . <a href="http://erjjones.github.com{{ post.url }}#disqus_thread"></a></small></p>
+      </li>
+    {% endfor %}
+  </ul>
+    {% include footer.html %}
+  </div>
+</section>
 </body>
 
 </html>
