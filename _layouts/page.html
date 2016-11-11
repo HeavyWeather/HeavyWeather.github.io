@@ -1,12 +1,8 @@
 ---
 layout: default
 ---
-
-<article class="page">
-
-  <h1>{{ page.title }}</h1>
-
-  <div class="entry">
-    {{ content }}
-  </div>
-</article>
+  <section class="wrapper{% if page.options contains 'minihead' %} minihead{% endif %} style5">
+    <div class="inner{% if page.options contains 'fullwidth' %} fullwidth{% endif %}">
+      {{ content }}
+    </div>
+  </section>
