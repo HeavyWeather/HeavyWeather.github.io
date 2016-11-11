@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<div class ="twitter">
+  {% twitter https://twitter.com/jekyllrb maxwidth=500 limit=5 %}
+</div>
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
@@ -16,5 +20,3 @@ layout: default
     </article>
   {% endfor %}
 </div>
-
-{% twitter https://twitter.com/jekyllrb maxwidth=500 limit=5 %}
