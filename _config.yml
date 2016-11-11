@@ -11,20 +11,20 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: arkadianriver
-description: Flowing creativity &#x2192; Cascading bliss
+title: DeeHarding.Nu
+description: Personal site &#x2192; photos, fiction, some science
 owner:
-  name: Gary Faircloth # or company name
-  email: gfair@arkadianriver.com
-  url: http://arkadianriver.com
+  name: Dee Harding # or company name
+  email: dee@deeharding.nu
+  url: http://deeharding.nu
 first_published: 1996 # if migrating another site, the year of your first publish
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://arkadianriver.com" # the base hostname & protocol for your site
+url: "http://heavyweather.github.io" # the base hostname & protocol for your site
 
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Welcome!  
+  title: Welcome!
   text: I hope you enjoy my collection
 # - title for your blog's featured posts
 features-title: Featured topics
@@ -34,11 +34,10 @@ closing-para: Feel free to get in touch. Cheers!
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/arkadianriver
-  github: https://github.com/arkadianriver
+  twitter: https://twitter.com/deltaechoecho
+  github: https://github.com/heavyweather
   linkedin-square: https://linkedin.com/in/garyfaircloth
-  facebook-official: https://facebook.com/gary.faircloth
-  google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
+  facebook-official: https://facebook.com/umbriel
   email: /contact/
   #flickr:
   #instagram:
