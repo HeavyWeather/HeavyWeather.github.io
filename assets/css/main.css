@@ -2227,8 +2227,9 @@
 
 		.image.main {
 			display: block;
-			margin: 2.5em 0em;
-			width: 100%;
+			margin: 1.0em 1.0em;
+			max-width: 100%;
+
 		}
 
 			.image.main img {
