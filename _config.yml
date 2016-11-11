@@ -7,9 +7,9 @@
 
 # Site settings
 title-bold: Dee
-title-normal: Photos, fiction, some science
+title-normal: Math-art weirdness
 email: dee@deeharding.nu
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: I'm a researcher at Goldsmiths College working at the boundary between science and art.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://heavyweather.github.io" # the base hostname & protocol for your site
 author:

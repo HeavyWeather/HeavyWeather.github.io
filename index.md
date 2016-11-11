@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: Hi, my name is Forty
-description: 
-image: 
-author: 
-nav-menu: 
+landing-title: Hi, my name is Dee
+description: I'm a researcher at Goldsmiths College working at the boundary between science and art.
+image:
+author:
+nav-menu:
 ---
 
 <!-- Banner -->
@@ -17,7 +17,7 @@ nav-menu:
 		<div class="content">
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
 			<ul class="actions">
-				<li><a href="#one" class="button next scrolly">Get Started</a></li>
+				<li><a href="#one" class="button next scrolly">Read my stuff</a></li>
 			</ul>
 		</div>
 	</div>
@@ -43,4 +43,3 @@ nav-menu:
 </section>
 
 </div>
-
