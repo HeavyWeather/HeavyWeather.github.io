@@ -33,7 +33,7 @@ excerpt_separator: <!--more-->
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 48
+tiles-count: 60
 
 # Social settings
 500px_url:
