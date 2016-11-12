@@ -3,7 +3,7 @@ layout: post
 title: The Bird Garden
 date: '2015-06-07T16:44:06+01:00'
 tags: [fiction]
-tumblr_url: http://elfen-safety.tumblr.com/post/120962717722/the-bird-garden
+imageurl: http://elfen-safety.tumblr.com/post/120962717722/the-bird-garden
 image: https://farm7.staticflickr.com/6171/6163411322_2b99382af0_o_d.jpg
 ---
 Pleione is a nymph. She is maybe Indian, maybe Chinese. Her name is Greek. It goes up at the end, like her nose. Like her glasses when they slide down. She spends a lot of time reading, writing, staring up at the stars. She tends a small garden, cramped with orchids, and she names things. Not the flowers: They proliferate and change faster that anyone can count.

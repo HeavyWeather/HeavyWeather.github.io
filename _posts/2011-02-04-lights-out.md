@@ -2,7 +2,7 @@
 layout: post
 title: Lights Out
 tags: [fiction, deeandmeghan]
-tumblr_url: http://deeandmeghan.tumblr.com/post/3312002140/lights-out
+imageurl: http://deeandmeghan.tumblr.com/post/3312002140/lights-out
 image: http://68.media.tumblr.com/tumblr_lgrn7kMQfw1qdm8ub.jpg
 ---
 

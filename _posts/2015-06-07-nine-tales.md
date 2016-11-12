@@ -3,7 +3,7 @@ layout: post
 title: Nine Tales
 date: '2015-06-07T16:04:14+01:00'
 tags: [fiction]
-tumblr_url: http://elfen-safety.tumblr.com/post/120959682287/nine-tales
+imageurl: http://elfen-safety.tumblr.com/post/120959682287/nine-tales
 ---
 Years ago, Yuki lost her children to winter. Grief took her wandering alone in the snow. Miles passed beneath her, and it was a long time before she realised that she might die out there, in the silent hills. One night, hunger stripping her of beauty, Yuki came to find the cooling leg of a man: Half-concealed between the drifts. Yuki had never eaten the flesh of men, but before long the corpse had been light enough to drag into shelter. Eventually Yuki had eaten his heart, and crawled inside his skin.
 
@@ -13,7 +13,7 @@ Early that spring, Kaito found Yuki living in a cave. Her tongue was blue and sh
 
 She never settled and never spoke a word. Sometimes, when a woman took her in out of pity, she would be caught on her haunches in a doorway, steaming amber from between the legs. When a man took her in for her beauty, she would spend all day learning from others, how to wear her two braids perfectly, which kimono were best. Yet she always screamed when the men entered her.
 
-By the next year Yuki took to wandering the hills much of the time. Travelers, when travelers survived the road, would tell of dancing fire out in the same hills, dreams of snow amid summer, falling blossom amid winter, of bones found half-buried, gnawed clean. Some would tell of an eerie wail echoing between the pines, but none of the travelers that told tales had followed it. 
+By the next year Yuki took to wandering the hills much of the time. Travelers, when travelers survived the road, would tell of dancing fire out in the same hills, dreams of snow amid summer, falling blossom amid winter, of bones found half-buried, gnawed clean. Some would tell of an eerie wail echoing between the pines, but none of the travelers that told tales had followed it.
 
 Four-braids strong, each tipped with the creeping ice of age, Yuki took to haunting an abandoned house in the mountains. Occasionally a young villager would stride toward it. Later they would stumble back confused by visions and bloody from their flight. Sometimes, they wouldn't.
 
