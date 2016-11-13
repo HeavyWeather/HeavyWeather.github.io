@@ -4,6 +4,8 @@ title: 'The Mysterium Waits'
 date: '2014-04-01T00:00:00+01:00'
 tags: [fiction, sleepness]
 ello_url: https://ello.co/dee/post/qrkatjomcvot-2zt0pymjg
+image: https://c8.staticflickr.com/8/7438/14065425791_7f5031456e_z.jpg
+imageurl: https://www.flickr.com/photos/umbriel/14065425791/in/datetaken-public/
 ---
 
 She clings to the side of the stairway and shifts her grip into a better position for her feet. A handful of steps are gone, leaving only an echoing void and the skeletal railing behind. It is terribly old, the metal aged a pale medical green. The rail leans inwards, only safe from the outside, and shrieks quietly when her weight tentatively explores each angle. She takes a deep breath, holds it for a second, and exhales rapidly: foot to hand, hand to weight, both feet and a frantic reach, then over in a falling tangle. It is all so sudden, and done. The stairs curve away beneath her. There are scratches across her stomach, hitches in her breathing. She blinks hard, and again, resting her back into the wall. Except that there is no gap. The stairs are whole. The railing roars in coppery glory. She reaches out a trembling hand, and the nearest edge is cool beneath her grip. She realises that her whole body is shaking, but this time, knows that she's awake.
