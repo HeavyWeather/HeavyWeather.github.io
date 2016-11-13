@@ -8,7 +8,7 @@ image: https://farm7.staticflickr.com/6174/6162868579_caacb10041_b_d.jpg
 ---
 
 Raphael asks, "have the birds stopped singing?", but there is no reply.
-
+<!--more-->
 Gabriel asks, "where are all the clouds?",
 
 Michael asks, "have the rivers stopped moving?",
