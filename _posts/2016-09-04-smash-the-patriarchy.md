@@ -17,6 +17,4 @@ A stone-cold feminist killjoy // telling gross man-babies exactly what they are 
 
 Katniss Everdeen // giving zero fucks whatsoever // with sage advice that comes from first hand experience. 
 
-are *still* not enough to defeat the crappy Situation cards that are all too familiar every day occurences. This is part of the game's charm: That fantastical scenarios dug out of the fantasy life of Anita Sarkeesian (also featured) can (and do) still fail against energy-sappingly normalised events. Only when, eventually, Mary Shelley // organizes a politically charged flashmob // with a dick withering howl from the depths of Mother Earth and you DO win a round does everything feel, for just a fleeting moment, actually hopeful and okay. 
-
-Basically, Emily Comeau is kind of the worst, but in the best way. If you were going to punch Donald Trump in the dick, she'd hand you brass knuckles. 
+are *still* not enough to defeat the crappy Situation cards that are all too familiar every day occurences. This is part of the game's charm: That fantastical scenarios dug out of the fantasy life of Anita Sarkeesian (also featured) can (and do) still fail against energy-sappingly normalised events. Only when, eventually, Mary Shelley // organizes a politically charged flashmob // with a dick withering howl from the depths of Mother Earth, and you DO win a round does everything feel, for just a fleeting moment, actually hopeful and okay. 
