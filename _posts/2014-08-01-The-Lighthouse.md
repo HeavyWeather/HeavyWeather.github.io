@@ -4,6 +4,8 @@ title: 'The Lighthouse'
 date: '2014-08-01T00:00:00+01:00'
 tags: [fiction, sleepness]
 ello_url: https://ello.co/dee/post/0cnwtwyjudi3xdryvamwyg
+image: https://farm9.staticflickr.com/8353/8344209424_344efdfebc_k_d.jpg
+imageurl: https://www.flickr.com/photos/umbriel/8344209424/in/datetaken-public/
 ---
 
 Many towns have lost their lighthouses over the years to neglect, but the harbour here was built narrow, with high cliffs close by. The winters of '64 and '23 both saw local sailors scrambling into a ragged flotilla to rescue ships from hidden rocks, before cold water could claim their crew. Those same rocks have been mapped well since, but the risks have not been entirely removed. Fishing boats still need help to cross the water.
